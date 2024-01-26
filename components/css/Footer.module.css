@@ -1,0 +1,23 @@
+/* components/Footer.module.css */
+
+.container {
+    padding: 20px;
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    align-items: center;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.copyright {
+    margin: 0;
+    color: #888;
+}
+
+.contact {
+    text-align: right;
+    color: #888;
+}
